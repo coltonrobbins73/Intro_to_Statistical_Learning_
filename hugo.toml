@@ -1,4 +1,4 @@
-baseURL = 'https://bio-recap.github.io/intro_to_statistical_learning/'
+baseURL = 'https://bio-recap.github.io/Intro_to_Statistical_Learning/'
 languageCode = 'en-us'
 title = 'Introduction to Statistical Learning'
 theme = 'study_blog_relearn'
