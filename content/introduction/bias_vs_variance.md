@@ -19,7 +19,7 @@ Where {{<math>}}$f(x_i)${{</math>}} is the predicted function output for the ith
 
 MSE can be and should be conducted for both training data that has been processed by our algorithm and testing data that the algorithm has never seen. 
 
-![Train MSE vs. Test MSE](/intro_to_statistical_learning/images/testMSE_vs_trainMSE.jpg)
+![Train MSE vs. Test MSE](/Intro_to_Statistical_Learning/images/testMSE_vs_trainMSE.jpg)
 
 Here we have 3 different approximations of ***f*** :
 

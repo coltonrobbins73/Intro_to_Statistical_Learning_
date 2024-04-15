@@ -15,7 +15,7 @@ Where {{<math>}}$\beta _0${{</math>}} is the y-intercept when {{<math>}}$x_0 = 0
 
 To compare linear fit, we need a numerical equation to score different predicted coefficient values. This is commonly accomplished with **residual sum of squares** (RSS) where each observed value is compared 
 
-![RSS Example](/intro_to_statistical_learning/images/RSS_example.jpg)
+![RSS Example](/Intro_to_Statistical_Learning/images/RSS_example.jpg)
 
 ### Derivation of residual sum of squares
 
@@ -23,7 +23,7 @@ Instead of approximating the best fit line and then iteratively improving on it,
 
 For simple linear regression, we have two coefficients to calculate (the slope and the intercept) and so we can combine the two derivations to find the global maximum shared by both values as demonstrated in these graphs.
 
-![Least squares minima](/intro_to_statistical_learning/images/least_squares_minima.jpg)
+![Least squares minima](/Intro_to_Statistical_Learning/images/least_squares_minima.jpg)
 
 ### Residual standard error
 

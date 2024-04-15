@@ -11,7 +11,7 @@ Simple linear regression is a powerful statistical tool but in most contexts, ma
 
 To fit a model using multiple predictors, we use the same residual sum of squares strategy (RSS) similar to simple linear regression. The derived equations that minimize RSS for multiple linear regression are beyond the scope of this text, but we can still use computational software to estimate the regression coefficients and plot them in the graph below. Note for this example we have two predictors, so we are fitting a plane to the data. If we had more than two predictors, we would fit a hyperplane to the data.
 
-![RSS Example for Two Predictors](/intro_to_statistical_learning/images/RSS_multi_predictor.jpg)
+![RSS Example for Two Predictors](/Intro_to_Statistical_Learning/images/RSS_multi_predictor.jpg)
 
 ### Predictor correlation considerations
 

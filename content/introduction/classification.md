@@ -21,7 +21,7 @@ For classification models, the theoretical lowest possible error rate is called 
 
 Where E is the expected mean value of probabilities for all values of ***X***. Essentially, we are saying that given a perfect boundary drawn between categories, the combined uncertainty for all values of input ***X*** is equal to the Bayes error rate.
 
-![Bayes classification boundary](/intro_to_statistical_learning/images/bayes_classification.jpg)
+![Bayes classification boundary](/Intro_to_Statistical_Learning/images/bayes_classification.jpg)
 
 For this example, the blue and orange populations overlap, so within this region, there is some inherent uncertainty about which class should be identified. If you combine all uncertainty for this model, you get the optimal error rate of 0.133.
 
@@ -33,6 +33,6 @@ KNN classifiers identify the ***K*** number of points closest to a new input val
 
 Where {{<math>}}$N_0${{</math>}} is a subset of points that are within the defined nearest neighbor range to the test point {{<math>}}$x_0${{</math>}}.
 
-![KNN K choice](/intro_to_statistical_learning/images/KNN_K_choice.jpg)
+![KNN K choice](/Intro_to_Statistical_Learning/images/KNN_K_choice.jpg)
 
 As you can see, the choice of ***K*** has a profound effect on the flexibility of the boundary fit for this classifier. When larger numbers of ***K*** are chosen, the boundary becomes more general and less sensitive to noise. In practice, a robust but intermediate value of K is often chosen and must be verified using error rates often through several iterations.

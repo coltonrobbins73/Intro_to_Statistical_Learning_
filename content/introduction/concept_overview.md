@@ -35,7 +35,7 @@ Refers to a category of methods that do not rely on assumptions about the form o
 
 Statistical methods lie on a continuum of flexibility which has a direct impact on interpretability. The more rigid a method is the easier it is to interpret. In other words, when a model becomes more complex, it is harder to understand the relationships between all the components of that model. Therefore in some circumstances, it is preferable to use a simple interpretable model. In fact, sometimes a more rigid model is more accurate due to the phenomenon of overfitting.
 
-![Flexibility vs Interpretability](/intro_to_statistical_learning/images/flexibility_vs_interpretability.jpg)
+![Flexibility vs Interpretability](/Intro_to_Statistical_Learning/images/flexibility_vs_interpretability.jpg)
 
 ### Supervised vs unsupervised learning
 
