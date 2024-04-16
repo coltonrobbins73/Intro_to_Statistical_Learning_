@@ -3,7 +3,7 @@ archetype = "home"
 title = "An Introduction to Statistical Learning"
 +++
 
-#### James, Witten, Hastie, Tibshirani, and Taylor, 2023
+#### [James, Witten, Hastie, Tibshirani, and Taylor, 2023](https://www.statlearning.com/)
 
 ###### First take
 
